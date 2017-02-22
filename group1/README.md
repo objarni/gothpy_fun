@@ -12,6 +12,7 @@ The bridge.py script is supposed to be called to update the lamp status, like th
 Note: there is example code to set lamp color in the root of this repository!
 
 Files:
+
 	test_bridge.py  # The tests
 	bridge.py       # The implementation
 
