@@ -10,7 +10,7 @@ Then, go into your subfolder and look at the README.md for further instructions.
 
 Note: if you want to have a virtual lamp on several laptops, you could check it out here:
 
-	[https://github.com/CILamp/vl](https://github.com/CILamp/vl)
+[https://github.com/CILamp/vl](https://github.com/CILamp/vl)
 
 Then, running the lamp concurrently with the physical lamp like this:
 
