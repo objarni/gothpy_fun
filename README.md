@@ -2,7 +2,7 @@
 
 Some excercises to try out CILamp's during presentation 23rd of February 2017.
 
-First, try controlling your lamp using this command (the ID is written on the bottom of the lamp):
+First, test changing your lamp using this command (the ID is written on the bottom of the lamp):
 
     python example_set_lamp.py
 
