@@ -12,7 +12,8 @@ Note: if you want to have a virtual lamp on several laptops, you could check it 
 
 [https://github.com/CILamp/vl](https://github.com/CILamp/vl)
 
-Then, running the lamp concurrently with the physical lamp like this:
+Then you can run the virtual lamp concurrently with the physical:
 
+	$ cd vl
 	$ ./run -i system_e
 
